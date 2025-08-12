@@ -37,9 +37,9 @@ main {
 
 .banner img{
       display: block;
-  margin-bottom: 0;
+  margin-bottom: 10;
   padding-bottom: 0;
-  max-height: 200px;
+  max-height: 150px;
   object-fit: cover;
 }
 
@@ -128,6 +128,7 @@ main {
         font-size: 18px;
     }
 }
+
 
 
 
