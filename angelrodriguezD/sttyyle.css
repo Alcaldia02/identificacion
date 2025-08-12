@@ -31,7 +31,7 @@ main {
 }
 
 .banner {
-    max-height: 200px;
+    max-height: 150px;
     overflow: hidden;
 }
 
@@ -128,5 +128,6 @@ main {
         font-size: 18px;
     }
 }
+
 
 
